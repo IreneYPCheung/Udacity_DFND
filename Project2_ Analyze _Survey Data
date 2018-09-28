@@ -1,0 +1,1 @@
+In this project, I have used statistics and Excel to summarize the results of a survey. I have cleaned the data, adjusted for common data issues, use statistics and visualizations to explore the data, and communicate the findings with data visualizations.
